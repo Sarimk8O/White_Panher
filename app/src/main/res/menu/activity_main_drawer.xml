@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/bitcoin"
+            android:icon="@drawable/ic_btc"
+            android:title="BitCoin"
+
+
+            />
+        <item
+            android:id="@+id/litecoin"
+            android:icon="@drawable/ic_ltc"
+            android:title="LiteCoin"
+           />
+        <item
+            android:id="@+id/Bitcoincash"
+            android:icon="@drawable/ic_bch"
+            android:title="Bitcoin Cash"
+           />
+        <item
+            android:id="@+id/Monero"
+            android:icon="@drawable/ic_xmr"
+            android:title="Monero"
+           />
+        <item
+            android:id="@+id/Dashcoin"
+            android:icon="@drawable/ic_dash"
+            android:title="DashCoin"
+            />
+        <item
+            android:id="@+id/Ethereum"
+            android:icon="@drawable/ic_eth"
+            android:title="Ethereum"
+            />
+
+        <item
+            android:id="@+id/BitcoinGold"
+            android:icon="@drawable/ic_btg"
+            android:title="Bitcoin Gold"
+            />
+
+        <item
+            android:id="@+id/neo"
+            android:icon="@drawable/ic_neo"
+            android:title="NEO"
+            />
+        <item
+            android:id="@+id/Zcash"
+            android:icon="@drawable/ic_zec"
+            android:title="Zcash"
+            />
+        <item
+            android:id="@+id/iota"
+            android:icon="@drawable/ic_iota"
+            android:title="IOTA"
+            />
+
+    </group>
+
+
+
+</menu>
